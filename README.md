@@ -17,4 +17,4 @@ Je vais également prendre en compte les éléments suivants :
 * L'utilisation des Smartt et umcTokens.sol
 
 Je suis prêt à continuer le travail ensemble ! Quelle est la prochaine étape que nous devrions suivre ? Devrions-nous commencer par 
-ou peut-être développer les cycles de 28 jours ?
+ou peut-être développer les cycles de 28 jours
