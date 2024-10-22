@@ -1,0 +1,83 @@
+{
+    "tasks": [
+      {
+        "phase": "Sequence 1 : Introduction - Concept de la vidéo cryptographique",
+        "time_start": "2024-10-19T04:00:00",
+        "time_end": "2024-10-19T04:10:00",
+        "description": "Présentation de l'idée de vidéo cryptographique avec intégration de cryptomonnaie dans un environnement de jeu.",
+        "steps": [
+          "Enregistrement de la voix-off expliquant le concept de la vidéo cryptographique et le mini-jeu.",
+          "Création des premiers éléments visuels pour illustrer le thème.",
+          "Animation d'un logo cryptographique (par exemple, avec l'intégration de Pi_Coin)."
+        ],
+        "status": "En cours",
+        "progress": "20%"
+      },
+      {
+        "phase": "Sequence 2 : Design visuel du mini-jeu cryptographique",
+        "time_start": "2024-10-19T04:10:00",
+        "time_end": "2024-10-19T04:25:00",
+        "description": "Création des éléments visuels et animation du mini-jeu dans la vidéo cryptographique.",
+        "steps": [
+          "Design des personnages et des éléments graphiques liés au jeu (blockchain, cryptomonnaie, etc.).",
+          "Animation des éléments du jeu (personnages, environnement).",
+          "Introduction d'un système de scoring ou d'interaction basé sur la cryptomonnaie (Pi_Coin)."
+        ],
+        "status": "Non commencé",
+        "progress": "0%"
+      },
+      {
+        "phase": "Sequence 3 : Animation du gameplay et intégration des tokens",
+        "time_start": "2024-10-19T04:25:00",
+        "time_end": "2024-10-19T04:45:00",
+        "description": "Animation du gameplay du mini-jeu et intégration de la mécanique cryptographique (tokens, récompenses).",
+        "steps": [
+          "Animation de l'interaction entre le joueur et le jeu (ex: collecte de tokens Pi_Coin).",
+          "Mise en place des mécanismes cryptographiques dans le jeu (gain de tokens, récompenses).",
+          "Insertion de la narration et des éléments expliquant l'importance des tokens cryptographiques."
+        ],
+        "status": "Non commencé",
+        "progress": "0%"
+      },
+      {
+        "phase": "Sequence 4 : Montage et transition des scènes vidéo",
+        "time_start": "2024-10-19T04:45:00",
+        "time_end": "2024-10-19T05:00:00",
+        "description": "Montage final de la vidéo cryptographique en intégrant les transitions et effets spéciaux.",
+        "steps": [
+          "Montage des scènes vidéo pour assurer une transition fluide entre les phases.",
+          "Ajout des effets spéciaux pour renforcer l'aspect cryptographique (ex: chaînes de blocs apparaissant à l'écran).",
+          "Mixage audio pour synchroniser la voix-off avec la musique et les effets sonores."
+        ],
+        "status": "Non commencé",
+        "progress": "0%"
+      },
+      {
+        "phase": "Sequence 5 : Sécurisation et cryptage de la vidéo",
+        "time_start": "2024-10-19T05:00:00",
+        "time_end": "2024-10-19T05:10:00",
+        "description": "Cryptage de la vidéo pour assurer la sécurité des données et la distribution cryptographique.",
+        "steps": [
+          "Utilisation de GPG ou OpenPGP pour crypter la vidéo.",
+          "Génération d'une clé publique et privée pour la distribution sécurisée.",
+          "Test du décryptage de la vidéo pour garantir son bon fonctionnement avec la clé privée."
+        ],
+        "status": "Non commencé",
+        "progress": "0%"
+      },
+      {
+        "phase": "Sequence 6 : Distribution et partage de la vidéo cryptographique",
+        "time_start": "2024-10-19T05:10:00",
+        "time_end": "2024-10-19T05:20:00",
+        "description": "Publication et partage de la vidéo cryptographique via des canaux sécurisés.",
+        "steps": [
+          "Téléchargement de la vidéo sur une plateforme sécurisée (ex: cloud sécurisé ou blockchain).",
+          "Distribution des clés privées aux participants pour déchiffrer la vidéo.",
+          "Suivi et gestion des retours sur l'impact de la vidéo."
+        ],
+        "status": "Non commencé",
+        "progress": "0%"
+      }
+    ]
+  }
+  

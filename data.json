@@ -1,0 +1,14 @@
+{
+    "data": [
+        {"id":1, "langage":"HTML","categorie":"Frontend"},
+        {"id":2, "langage":"CSS","categorie":"Frontend"},
+        {"id":3, "langage":"Javascript","categorie":"Frontend"},
+        {"id":4, "langage":"SVG","categorie":"Frontend"},
+        {"id":5, "langage":"XML","categorie":"Frontend"},
+        {"id":6, "langage":"python","categorie":"Backend"},
+        {"id":7, "langage":"PHP","categorie":"Backend"},
+        {"id":8, "langage":"SQL","categorie":"Backend"},
+        {"id":9, "langage":"GROQ","categorie":"Backend"}
+
+    ]
+}
