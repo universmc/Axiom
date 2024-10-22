@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "author": "Μιχαήλ",
     "license": "GNU",
+    "node": "♡( ◡‿◡ )",
     "private": true,
     "main": "index.js",
     "engines": {
@@ -23,7 +24,7 @@
         "start": "electron .",
         "loader": "sass --watch src/scss/TimeCode.scss src/css/compose.css",
         "Mission": "sass --watch src/scss/mission.scss src/css/fib.css",
-        "srv": "json-server --watch data.json",
+        "srv": "json-server --watch db.json",
         "scss": "sass --watch await.scss src/css/feuilles_style.css",
         "code": "sass --watch src/scss/timeLines.scss src/css/timeCode.css",
         "umc": "sass --watch src/scss/windows.scss src/css/player.css",
