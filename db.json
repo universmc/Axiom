@@ -1,12 +1,64 @@
-{
-    "contexte": ["formation", "intelligentie", "artificielle"],
-    "rôle": ["formation", "professionnalisation"],
-    "compétences": ["analyse", "stratégie", "communication"],
-    "tâches": ["formation", "évaluation", "remédiation"],
-    "fonctions": ["développement", "analyse", "évaluation"],
-    "routine": ["répétition", "pratique", "amélioration"],
-    "processus": ["formation", "évaluation", "remédiation"],
-    "caractéristiques": ["analytique", "stratégique", "communicationnelle"],
-    "Actions Immédiates": ["formation", "évaluation", "remédiation"],
-    "resultat": ["amélioration", "progrès", "atteinte"]
+  {
+    "models": [
+      {
+        "id": 1,
+        "name": "Axiom",
+        "model": "llama3.2",
+        "description": "Ce modèle est un exemple de modèle Llama",
+        "temperature": 0.5,
+        "max_tokens": 512,
+        "top_p": 0.5,
+        "stream": false
+      },
+      {
+        "id": 2,
+        "name": "assistant",
+        "model": "llama3-8b-8192",
+        "description": "Ce modèle est un exemple de modèle Llama",
+        "temperature": 0.5,
+        "max_tokens": 512,
+        "top_p": 0.5,
+        "stream": false
+      },
+      {
+        "id": 3,
+        "name": "assistant-instant",
+        "model": "llama-3.1-8b-instant",
+        "description": "Ce modèle est un exemple de modèle Llama",
+        "temperature": 0.5,
+        "max_tokens": 512,
+        "top_p": 0.5,
+        "stream": false
+      },
+      {
+        "id": 4,
+        "name": "assistant-preview",
+        "model": "llama-3.2-3b-preview",
+        "description": "Ce modèle est un autre exemple de modèle Llama",
+        "temperature": 0.75,
+        "max_tokens": 1024,
+        "top_p": 0.8,
+        "stream": true
+      },
+      {
+        "id": 5,
+        "name": "assistant-guard",
+        "model": "llama-guard-3-8b",
+        "description": "Ce modèle est un autre exemple de modèle Llama",
+        "temperature": 0.25,
+        "max_tokens": 256,
+        "top_p": 0.2,
+        "stream": false
+      },
+      {
+        "id": 6,
+        "name": "assistant-versatile",
+        "model": "llama-3.1-70b-versatile",
+        "description": "Ce modèle est un autre exemple de modèle Llama",
+        "temperature": 0.25,
+        "max_tokens": 256,
+        "top_p": 0.2,
+        "stream": false
+      }
+    ]
   }
